@@ -7,3 +7,12 @@ Background : <p>This dataset consists of the medical appointments from 100k pati
 Objective: To gain insight into the kind of patients who are more or less likely of missing or attending their appointments.
 
 Algorithm: pandas, numpy, matplotlib, exploratory data analysis (EDA)
+
+Questions investigated: 
+
+* Question 1: Which age group attended the most appointments ?
+* Question 2: Which age group missed the most appointments ?
+* Question 3: Which gender misses the most appointment?
+* Question 4: Which age group with Diabetes attends their appointment the most?
+* Question 5: Which age group with Hypertension attends their appointment the most?
+* Question 6: Which age group battling alcoholism attends their appointment the most?
